@@ -5,7 +5,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source"/>
 
 
-![ghchart](https://ghchart.rshah.org/perry-chouteau)
+<!-- ![ghchart](https://ghchart.rshah.org/perry-chouteau)-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perry-chouteau&show_icons=true&theme=dark&disable_animations=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perry-chouteau&hide=html,css,scss,objective-c,perl&langs_count=10&layout=compact&disable_animations=true)](https://github.com/Perry-chouteau/Perry-chouteau)
