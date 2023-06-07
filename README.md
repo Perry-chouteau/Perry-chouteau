@@ -20,6 +20,8 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 ![Windows 11](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)
 ![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)
 
+</details>
+
 <details open>
   <summary><b style="font-size:20px">Software and more</b></summary>
   <br/>
