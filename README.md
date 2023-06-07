@@ -13,12 +13,17 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
 <details open>
-  <summary><b style="font-size:20px">Software and more</b></summary>
+  <summary><b style="font-size:20px">Operating System</b></summary>
   <br/>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)
 ![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)
+
+<details open>
+  <summary><b style="font-size:20px">Software and more</b></summary>
+  <br/>
+
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
