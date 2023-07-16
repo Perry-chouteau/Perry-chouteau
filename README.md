@@ -104,7 +104,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 <div align=center>
 
-<a href="https://github.com/Perry-chouteau" ><img alt="Github Badge" src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=blackwhite?link=https://github.com/Perry-chouteau" height="50"/></a>
+<!--<a href="https://github.com/Perry-chouteau" ><img alt="Github Badge" src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=blackwhite?link=https://github.com/Perry-chouteau" height="50"/></a>-->
 <a href="https://www.linkedin.com/in/perry-chouteau-56292a206/" ><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perry-chouteau-56292a206/)" height="50"/></a>
 <a href="mailto:perry.chouteau@epitech.eu" ><img alt="Outlook Badge" src="https://img.shields.io/badge/-Outlook-0078d4?style=flat&logo=MicrosoftOutlook&logoColor=blue?&link=mailto:perry.chouteau@epitech.eu)" height="50"/></a>
 
