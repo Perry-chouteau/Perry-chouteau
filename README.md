@@ -7,8 +7,8 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 <!-- ![ghchart](https://ghchart.rshah.org/perry-chouteau)-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perry-chouteau&show_icons=true&theme=dark&disable_animations=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perry-chouteau&hide=html,css,scss,objective-c,perl&langs_count=10&layout=compact&theme=dark&disable_animations=true)](https://github.com/Perry-chouteau/Perry-chouteau)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perry-chouteau&show_icons=true&theme=dark&disable_animations=true)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perry-chouteau&hide=html,css,scss,objective-c,perl&langs_count=10&layout=compact&theme=dark&disable_animations=true)](https://github.com/Perry-chouteau/Perry-chouteau)-->
 
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
