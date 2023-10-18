@@ -27,7 +27,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b style="font-size:20px">Software and more</b></summary>
   <br/>
 
-&emsb;&ensb;&ensb;&ensb; <details open>
+&emsb;&ensb;&ensb;&ensb;<details open>
     <summary><b style="font-size:16px">IDE</b></summary>
     <br/>
   [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
