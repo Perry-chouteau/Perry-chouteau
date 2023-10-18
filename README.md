@@ -25,7 +25,6 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <summary><b style="font-size:20px">Software and more</b></summary>
   <br/>
 
-developers:
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/#vscode-section)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
