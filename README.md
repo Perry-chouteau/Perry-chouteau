@@ -16,8 +16,8 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <br/>
 
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows 11](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![Windows 11](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 </details>
 
@@ -25,14 +25,14 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <summary><b style="font-size:20px">Software and more</b></summary>
   <br/>
 
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
-![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)
-![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)
+[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
+[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/#vscode-section)
+[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com)
+[![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
+[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
+[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
