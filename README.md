@@ -25,28 +25,39 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <summary><b style="font-size:20px">Software and more</b></summary>
   <br/>
 
+developers:
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/#vscode-section)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com)
+
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
 [![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
+
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
+![Github-Project](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+Render:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+![Lightroom](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
 
 </details>
 
