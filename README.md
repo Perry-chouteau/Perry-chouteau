@@ -3,7 +3,7 @@
 I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Paris, France**.
 I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Assets, Unity(3D/2D), Arduino... and Photography.
 
-I don't know how to be exhaustive and keep this clean and ordered... it will be upgrade throught time
+> I don't know how to be exhaustive and keep this clean and ordered... it will be upgrade throught time
  
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source"/>
 
