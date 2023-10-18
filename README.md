@@ -27,7 +27,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b style="font-size:20px">Software and more</b></summary>
   <br/>
 
-<details open>
+:  <details open>
   <summary><b style="font-size:16px">IDE</b></summary>
   <br/>
 
