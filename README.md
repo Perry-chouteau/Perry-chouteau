@@ -1,6 +1,8 @@
 <h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Paris, France**.
+I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Assets, Unity(3D/2D), Arduino..
+
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source"/>
 
 
