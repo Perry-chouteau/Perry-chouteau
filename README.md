@@ -17,7 +17,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b style="margin-left:20em;">Operating System</b></summary>
   <br/>
 
-
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 [![Windows 11](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -35,7 +34,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
     <br/>
 
   <p style="margin-left:16px">
-    
+
   [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
   [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/#vscode-section)
   [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
