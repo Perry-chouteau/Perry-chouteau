@@ -3,6 +3,8 @@
 I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Paris, France**.
 I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Assets, Unity(3D/2D), Arduino... and Photography.
 
+I don't know how to be exhaustive and keep this clean and ordered... it will be upgrade throught time
+ 
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source"/>
 
 
@@ -29,21 +31,25 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <br/>
 
 IDE:
+
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/#vscode-section)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com)
 
 Package Manager:
+
 [![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
 [![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
 
 Version Control:
+
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 
 Backend:
+
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white)
@@ -86,6 +92,9 @@ Render:
 ![Prisma](https://img.shields.io/badge/-Prisma-white?style=flat&logo=prisma&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
+
+Libraries:
+
 
 ![CSFML](https://img.shields.io/badge/-CSFML-8CC445?style=flat&logo=SFML&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=SFML&logoColor=white)
