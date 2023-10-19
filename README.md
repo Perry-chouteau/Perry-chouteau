@@ -17,10 +17,10 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
 <details open>
-  <summary><b style="font-size:20px">Operating System</b></summary>
+  <summary><b style="font-size:20px;">Operating System</b></summary>
   <br/>
 
-<i style="font-size:12px">Used currently.</i>
+<i style="font-size:12px;">Used currently.</i>
 
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 
