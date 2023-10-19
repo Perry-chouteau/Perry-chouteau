@@ -58,14 +58,14 @@ $\qquad$ a
   <summary><b>Ide's and more</b></summary>
   <br/>
 
-- most used
+ - most used
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-- most loved suite
+ - most loved suite
 [![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com)
 
-*others*
+- others
 [![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 [![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat&logo=arduino&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
@@ -73,42 +73,38 @@ $\qquad$ a
 </details>
 
 <details open>
-  <summary><b style="font-size:20px">Software and more</b></summary>
+  <summary><b>Global</b></summary>
   <br/>
 
-$_{Known:}$ 
- 
-[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
-[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
-
-Version Control:
-
-$_{Most Used:}$
+- Version Control
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-
-$_{Known pretty well:}$
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
+
+- Social
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+![Outlook](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
+
+![Beeper](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
+
+
+</details>
+
 
 Backend:
 
-$_{Most Used:}$
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-$_{RIP:}$
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 
-Coms:
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
-![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
-
+#Organization Tools
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Github-Project](https://img.shields.io/badge/-GithubProject-0052CC?style=flat&logo=trello&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-Render:
+(2/3)D:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
@@ -126,20 +122,38 @@ Docs
   <summary><b style="font-size:20px">Languages and more</b></summary>
   <br/>
 
-[![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+Loved language:
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
+
+Backend:
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
-![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white)
-![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-white?style=flat&logo=prisma&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
 
-Libraries:
+[![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
+
+Devops:
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+Frontend:
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white)
+
+Mobile:
+...
+
+Databases:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-white?style=flat&logo=prisma&logoColor=4169E1)
+
+Other:
+![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+
 
 
 ![CSFML](https://img.shields.io/badge/-CSFML-8CC445?style=flat&logo=SFML&logoColor=white)
@@ -152,13 +166,6 @@ Libraries:
 ![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-</details>
-
-
-<details open>
-  <summary><b style="font-size:20px">Currently learning those things</b></summary>
-  <br/>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
@@ -173,6 +180,15 @@ Libraries:
 
 </details>
 </br>
+
+<details open>
+  <summary><b style="font-size:20px">Package</b></summary>
+  <br/>
+ 
+[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
+[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
+
+</details>
 
 
 <h1 align=center>𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒓𝒆𝒂𝒅𝒊𝒏𝒈 ! <img src="https://emojis.slackmojis.com/emojis/images/1643514872/8868/blob_cozy.png?1643514872" width="30"/></h1>
