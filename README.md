@@ -49,6 +49,8 @@ $\qquad$ a
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 
 *Most used in the past:*
+
+
 [![Fedora](https://img.shields.io/badge/-Linux-51A2DA?style=flat&logo=fedora&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
@@ -57,6 +59,7 @@ $\qquad$ a
 <details open>
   <summary><b>Software and more</b></summary>
   <br/>
+
 $_{Most loved:}$
 
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
