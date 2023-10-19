@@ -84,7 +84,7 @@ Backend:
 $_{Most Used:}$
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-$_{☠️}$
+$_{RIP:}$
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 
 
