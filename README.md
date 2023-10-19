@@ -57,8 +57,8 @@ $\qquad$ a
 <details open>
   <summary><b>Ide's and more</b></summary>
   <br/>
+<p>$-b \pm \sqrt{b^2 - 4ac} \over 2a$</p>
 
-$-b \pm \sqrt{b^2 - 4ac} \over 2a$
 
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
