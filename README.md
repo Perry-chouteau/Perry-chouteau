@@ -55,10 +55,10 @@ $\qquad$ a
 </details>
 
 <details open>
-  <summary><b>Software and more</b></summary>
+  <summary><b>Ide's and more</b></summary>
   <br/>
 
-<!--$_{Most loved:}$-->
+$_{ Most loved }$
 
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
@@ -68,6 +68,7 @@ $\qquad$ a
 
 [![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
 
+[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 
 </details>
 
@@ -75,12 +76,9 @@ $\qquad$ a
   <summary><b style="font-size:20px">Software and more</b></summary>
   <br/>
 
-
-
 $_{Known:}$
 
 
-[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 
 Package Manager:
 
