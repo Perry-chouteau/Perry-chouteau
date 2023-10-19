@@ -58,7 +58,7 @@ $\qquad$ a
   <summary><b>Ide's and more</b></summary>
   <br/>
 
-$_{ Most loved }$
+$Most loved$
 
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
