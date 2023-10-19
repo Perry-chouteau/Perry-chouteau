@@ -45,14 +45,19 @@ $\qquad$ a
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
-
 </details>
+
+<details open>
+  <summary><b>Software and more</b></summary>
+  <br/>
 
 ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 [![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com)
+
+</details>
 
 <details open>
   <summary><b style="font-size:20px">Software and more</b></summary>
@@ -87,7 +92,6 @@ $_{Most Used:}$
 
 $_{RIP:}$
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
-
 
 Coms:
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
