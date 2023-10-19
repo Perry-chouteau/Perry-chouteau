@@ -17,7 +17,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
 <details open>
-  <summary><b style="margin-left:20em;">Operating System</b></summary>
+  <summary><b style="font-size:20px">Operating System</b></summary>
   <br/>
 
 *Used currently.*
