@@ -183,14 +183,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<!--------------------------------------- MutlimediaLibrary  ------------------------------------>
-<details>
-  <summary><b>Frontend:</b></summary>
-  <br/>
-
-
-</details>
-
 <!--------------------------------------- Frontend  ------------------------------------>
 <details>
   <summary><b>Frontend:</b></summary>
