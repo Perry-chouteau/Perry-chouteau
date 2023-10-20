@@ -28,6 +28,12 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Operating System:</b></summary>
   <br/>
 
+|  MacOs | Linux | Windows |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
         - MacOS:
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-FFFFFF?style=flat&logo=apple&logoColor=black)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 
@@ -87,7 +93,8 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <details open>
   <summary><b>Ide's and more:</b></summary>
   <br/>
-        - Replace everything:
+
+        - Text Editor:
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
         - IDE's:
