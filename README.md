@@ -248,17 +248,10 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 [![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
 [![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
 
-        Other:
+        - Other:
 ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
 
-
-![Styled_Component](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
-![Eslint](https://img.shields.io/badge/-Eslint-8080F2?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
-
 </details>
-
 
 <!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
 <details>
@@ -276,14 +269,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<!--
-redis
-elasticsearch
-jquery
-mongodb
-sqlite
--->
-
 <details>
   <summary><b>Things to learn:</b></summary>
   <br/>
@@ -295,7 +280,12 @@ sqlite
 ![Traefik Proxy](https://img.shields.io/badge/-Traefik_Proxy-24A1C1?style=flat&logo=traefik-proxy&logoColor=white)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
 
-        - Devops:
+        - Database:
+![Redis](https://img.shields.io/badge/-Redis-FF6600?style=flat&logo=redis&logoColor=white)
+![Elastic_Search](https://img.shields.io/badge/-Elastic_Search-FF6600?style=flat&logo=elasticsearch&logoColor=white)
+![JQuery](https://img.shields.io/badge/-JQuery-FF6600?style=flat&logo=jquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FF6600?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-FF6600?style=flat&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -303,24 +293,11 @@ sqlite
   <summary><b>...</b></summary>
   <br/>
 
-
-json
-yaml
-serverless
-jsonwebtokens
-prettier
 graddle
 precommit
 
-</details>
-
-eslint
-express
 gnubash
 insomnia
-postman
-linux
-macos
 
 processingfoundation
 powershell
@@ -330,10 +307,8 @@ selenium
 sfml
 sharp
 shieldsdotio
-speedtest
-libreoffice
 virtualbox
-opencv
+</details>
 
 <details>
   <summary><b>In Progress</b></summary>
