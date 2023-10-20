@@ -87,6 +87,8 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <details open>
   <summary><b>Ide's and more:</b></summary>
   <br/>
+        - Replace everything:
+[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
         - IDE's:
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
@@ -94,9 +96,8 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 
         - More:
-[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
-[![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
 [![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
+[![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
 
 </details>
 
@@ -218,13 +219,17 @@ sqlite
 </details>
 
 <details open>
-  <summary><b>Languages and more</b></summary>
+  <summary><b>Languages</b></summary>
   <br/>
 
-Loved language:
-
-        [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+        - Procedural:
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+        - Object Oriented:
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+        - Functional:
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
 Devops:
@@ -268,7 +273,7 @@ Other:
 </details>
 
 <details open>
-  <summary><b>Languages and more</b></summary>
+  <summary><b>...</b></summary>
   <br/>
 
 
