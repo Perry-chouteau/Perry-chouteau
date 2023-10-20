@@ -139,8 +139,8 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Java](https://img.shields.io/badge/-Java-3178C6?style=flat&logo=java&logoColor=white)
 
         - Declarative:
-        
-                - Functional:
+
+                - Functional:
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
 </details>
