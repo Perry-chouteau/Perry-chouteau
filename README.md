@@ -82,7 +82,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Organization tools:</b></summary>
   <br/>
 
-        - Databases:
+        - DataBase:
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
 
@@ -116,18 +116,28 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 React
 
 
-
-        ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+        - Software:
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 
+</details>
 
-        ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
+<details open>
+  <summary><b>Database:</b></summary>
+  <br/>
+        - ORM:
 ![Prisma](https://img.shields.io/badge/-Prisma-4169E1?style=flat&logo=prisma&logoColor=white)
 
+        - SQL:
+[...]
+        - NoSQL:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
 </details>
+
 
 <details open>
   <summary><b>Frontend:</b></summary>
