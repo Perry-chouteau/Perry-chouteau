@@ -132,8 +132,10 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
      
     - Imperative:
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
+
         - Procedural:
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
         - Object Oriented:
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
