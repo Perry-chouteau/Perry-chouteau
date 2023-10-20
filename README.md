@@ -183,14 +183,34 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<!--------------------------------------- FrontWeb  ------------------------------------>
+<!--------------------------------------- MutlimediaLibrary  ------------------------------------>
 <details>
   <summary><b>Frontend:</b></summary>
   <br/>
 
 
 </details>
-<!--------------------------------------- Mobile ------------------------------------>
+
+<!--------------------------------------- Frontend  ------------------------------------>
+<details>
+  <summary><b>Frontend:</b></summary>
+  <br/>
+
+
+        - Multimedia Library:
+![CSFML](https://img.shields.io/badge/-CSFML-8CC445?style=flat&logo=SFML&logoColor=white)
+![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=SFML&logoColor=white)
+![Raylib](https://img.shields.io/badge/-Raylib-8CC445?style=flat&logo=Raylib&logoColor=white)
+
+        - Framework:
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white)
+
+        - Mobile:
+![Android-Java](https://img.shields.io/badge/-Android(Java)-3DDC84?style=flat&logo=android&logoColor=white)
+
+</details>
+
 <!--------------------------------------- Other ------------------------------------>
 
 <!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
@@ -227,7 +247,6 @@ Devops:
 ![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 Frontend:
-        ![React](https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white)
 
 App Manager:
         [![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
@@ -242,11 +261,6 @@ Other:
 ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
 
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-![CSFML](https://img.shields.io/badge/-CSFML-8CC445?style=flat&logo=SFML&logoColor=white)
-![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=SFML&logoColor=white)
 ![Styled_Component](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
