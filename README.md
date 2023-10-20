@@ -16,7 +16,12 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
-<h3>Developer:</h3>
+<!--
+-
+- Global
+-
+-->
+<h3>Global:</h3>
 
 <details open>
   <summary><b>Operating System:</b></summary>
@@ -34,22 +39,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<details open>
-  <summary><b>Ide's and more:</b></summary>
-  <br/>
-
-        - IDE's:
-[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00878F?style=flat&logo=arduino&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
-[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
-
-        - More:
-[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
-[![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
-[![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
-
-</details>
-
 <!--------------------------------------- Social ------------------------------------>
 <details open>
   <summary><b>Socials:</b></summary>
@@ -61,17 +50,12 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) 
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
-        - Others:
+        - Other:
 ![Outlook](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 </details>
 
-<details open>
-  <summary><b>Version Control:</b></summary>
-  <br/>
-
-</details>
 
 <!--------------------------------------- Organisation Tools ------------------------------------>
 <details open>
@@ -90,6 +74,36 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Readme](https://img.shields.io/badge/-Readme-018EF5?style=flat&logo=readme&logoColor=white)
 
+</details>
+
+<!--
+-
+- Developer
+-
+-->
+<h3>Developer:</h3>
+
+<details open>
+  <summary><b>Ide's and more:</b></summary>
+  <br/>
+
+        - IDE's:
+[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00878F?style=flat&logo=arduino&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
+[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
+
+        - More:
+[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+[![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
+[![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
+
+</details>
+
+
+<details open>
+  <summary><b>Version Control:</b></summary>
+  <br/>
+ 
         - Version Control & Collaboration:
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
