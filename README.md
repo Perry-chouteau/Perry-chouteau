@@ -63,7 +63,7 @@ $\qquad$ a
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
  - most loved suite
-[![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com)
+[![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
 
 - others
 [![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
