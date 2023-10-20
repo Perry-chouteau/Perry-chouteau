@@ -100,9 +100,8 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-white?style=flat&logo=prisma&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/-Prisma-4169E1?style=flat&logo=prisma&logoColor=white)
 
 </details>
 
