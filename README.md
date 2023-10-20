@@ -48,20 +48,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<details open>
-  <summary><b>Version Control:</b></summary>
-  <br/>
-
-        - Tools:
-[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
-[![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
-
-        - Guidelines:
-![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
-
-</details>
-
+<!--------------------------------------- Social ------------------------------------>
 <details open>
   <summary><b>Socials:</b></summary>
   <br/>
@@ -79,25 +66,44 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <details open>
+  <summary><b>Version Control:</b></summary>
+  <br/>
+
+</details>
+
+<!--------------------------------------- Organisation Tools ------------------------------------>
+<details open>
   <summary><b>Organization tools:</b></summary>
   <br/>
 
-        - Database:
+        - Project Management:
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
-
-        - Project Management:
 ![Github-Project](https://img.shields.io/badge/-GithubProject-0052CC?style=flat&logo=trello&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-        - Workspace:
+        - Documentation:
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![UML](https://img.shields.io/badge/-UML-#FABD14?style=flat&logo=uml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Readme](https://img.shields.io/badge/-Readme-018EF5?style=flat&logo=readme&logoColor=white)
 
+        - Version Control & Collaboration:
+[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
+[![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+
+        - Guidelines:
+![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
+
 </details>
 
+<!--------------------------------------- Developers ------------------------------------>
+
+<!--------------------------------------- Backend ------------------------------------>
+<!--------------------------------------- Databases ------------------------------------>
+<!--------------------------------------- FrontWeb  ------------------------------------>
+<!--------------------------------------- Mobile ------------------------------------>
 <details open>
   <summary><b>Backend:</b></summary>
   <br/>
@@ -149,24 +155,40 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <br/>
 </details>
 
+<!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
 <details open>
-  <summary><b>Design,Edition & Modelisation </b></summary>
+  <summary><b>Picture Edition & Modelisation </b></summary>
   <br/>
-</details>
 
-(2/3):
-
-        
+        Presentation:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+        Editor:
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-5C5543?style=flat&logo=adobephotoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
 
+</details>
 
-Docs 
+<details>
+  <summary><b>Docs:</b></summary>
+  <br/>
+ 
         ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
+</details>
+
+
+redis
+elasticsearch
+jquery
+mongodb
+postgresql
+sqlite
+
+ 
 </details>
 
 <details open>
@@ -261,7 +283,6 @@ opencv
   <summary><b>In Progress</b></summary>
   <br/>
 
-mui
 php
 phpmyadmin
 swagger
@@ -272,22 +293,21 @@ unity
 
 
 <details>
-  <summary><b>To Learn</b></summary>
+  <summary><b>To Learn:</b></summary>
   <br/>
 
-redis
-elasticsearch
+mui
+
+fastapi
 ifttt
 jenkins
 jest
 jira
 kotlin
-jquery
 jupyter
 kubernetes
 latex
 lua
-mongodb
 nestjs
 nextdotjs
 nuxtdotjs
@@ -297,7 +317,6 @@ ocaml
 opengl
 ovh
 perl
-postgresql
 miro
 qt
 rootme
@@ -309,7 +328,6 @@ scaleway
 slides
 solidity
 socketdotio
-sqlite
 stylelint
 subversion
 swift
