@@ -151,7 +151,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=black)
-![WireGo](https://img.shields.io/badge/-Wire-red?style=flat&logo=google&logoColor=black)
+![WireGO](https://img.shields.io/badge/-WireGO-white?style=flat&logo=google&logoColor=red)
 
         - Package Manager:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
