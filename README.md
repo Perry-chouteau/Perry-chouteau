@@ -16,11 +16,11 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
-<!--
+<!------------------------------------------------------------------------------------------------------------
 -
 - Global
 -
--->
+-------------------------------------------------------------------------------------------------------------->
 <h3>Global:</h3>
 
 <details open>
@@ -76,11 +76,11 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<!--
+<!------------------------------------------------------------------------------------------------------------
 -
 - Developer
 -
--->
+-------------------------------------------------------------------------------------------------------------->
 <h3>Developer:</h3>
 
 <details open>
@@ -101,7 +101,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 
 <details open>
-  <summary><b>Version Control:</b></summary>
+  <summary><b>Version Control & More:</b></summary>
   <br/>
  
         - Version Control & Collaboration:
@@ -109,26 +109,28 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 
-        - Guidelines:
+        - Guideline:
 ![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
 
 </details>
 
-<!--------------------------------------- Developers ------------------------------------>
-
-<!--------------------------------------- Backend ------------------------------------>
-<!--------------------------------------- Databases ------------------------------------>
-<!--------------------------------------- FrontWeb  ------------------------------------>
-<!--------------------------------------- Mobile ------------------------------------>
+<!--------------------------------------- Languages ------------------------------------>
 <details open>
-  <summary><b>Backend:</b></summary>
+  <summary><b>Over all:</b></summary>
   <br/>
-
+ 
         - Language:
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.typescriptlang.org)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
+  
+</details>
+
+<!--------------------------------------- Backend ------------------------------------>
+<details open>
+  <summary><b>Backend:</b></summary>
+  <br/> 
 
         - Library & Framework:
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
@@ -142,13 +144,18 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
         - Tool:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
-![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
-
 ![Curl](https://img.shields.io/badge/-Curl-073551?style=flat&logo=curl&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 
+        - Domains:
+![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
+![Namecheap](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
+
+
+
 </details>
 
+<!--------------------------------------- Databases ------------------------------------>
 <details open>
   <summary><b>Database:</b></summary>
   <br/>
@@ -165,11 +172,13 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-
+<!--------------------------------------- FrontWeb  ------------------------------------>
 <details open>
   <summary><b>Frontend:</b></summary>
   <br/>
 </details>
+<!--------------------------------------- Mobile ------------------------------------>
+<!--------------------------------------- Other ------------------------------------>
 
 <!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
 <details open>
@@ -281,7 +290,7 @@ linux
 macos
 mariadb
 mysql
-namecheap
+
 processingfoundation
 powershell
 radixui
