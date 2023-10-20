@@ -36,15 +36,15 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Ide's and more:</b></summary>
   <br/>
 
-        - Ide's:
-[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+        - IDE's:
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00878F?style=flat&logo=arduino&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
+[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 
-        - more:
+        - More:
+[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 [![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
 [![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
-[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 
 </details>
 
@@ -63,15 +63,17 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <details open>
-  <summary><b>Social:</b></summary>
+  <summary><b>Socials:</b></summary>
   <br/>
 
-        ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+        Plateform:
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) 
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
+        Others:
 ![Outlook](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) 
-![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
 </details>
 
