@@ -184,8 +184,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![AWS APIGateway](https://img.shields.io/badge/-AWS_APIGateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-jsonwebtokens
-
 </details>
 
 <!--------------------------------------- Databases ------------------------------------>
