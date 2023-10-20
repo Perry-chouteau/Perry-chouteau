@@ -324,57 +324,83 @@ unity
 
 
 <details>
-  <summary># To Learn:</summary>
+  <summary>To Learn:</summary>
   <br/>
 
-mui
-
-fastapi
-ifttt
-jenkins
-jest
-jira
-kotlin
-jupyter
-kubernetes
+        - Docs
 latex
-lua
-nestjs
+        - Devops
+travisci
+jenkins
+kubernetes
+
+        - Webapp:
+openvpn
+wireguard
+
+miro
+jira
+slides
+
+jupyter
+
+ovh
+azure
+scaleway
+vercel
+
+ifttt
+zapier
+
+rootme
+tryhackme
+
+        - JS framework:
+vuedotjs
+vite
 nextdotjs
 nuxtdotjs
-openssl
-openvpn
+nestjs
+
+        - Library:
+trpc
+tailwindcss
+
+        - Test:
+jest
+vitest
+
+        - Application:
+kotlin
+swift
+
+        - Fonctionel:
+lua
 ocaml
-opengl
-ovh
 perl
-miro
-qt
-rootme
+
+        - Application:
 ruby
 rubyonrails
 rust
+
+unrealengine
+
+        - MultimediaLibray:
+webgl
+opengl
+qt
+
+        - Other:
+fastapi
+mui
+openssl
 sass
-scaleway
-slides
 solidity
 socketdotio
 stylelint
 subversion
-swift
-tailwindcss
-trpc
-travisci
-tryhackme
-unrealengine
-vercel
-vitest
-vite
-vuedotjs
-webgl
 wireguard
-xaml
-zapier
 
 </details>
 
