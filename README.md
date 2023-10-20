@@ -142,8 +142,9 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
 </details>
+
 <!--------------------------------------- Backend ------------------------------------>
-<details open>
+<details>
   <summary><b>Backend</b></summary>
   <br/>
 
@@ -151,48 +152,40 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=black)
-![WireGO](https://img.shields.io/badge/-WireGO-white?style=flat&logo=google&logoColor=red)
 
-        - Package Manager:
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CC0C0C?style=flat&logo=npm&logoColor=white)
-![wire](https://img.shields.io/badge/-npm-CC0C0C?style=flat&logo=npm&logoColor=white)
-
-        - Tool:
+        - Tools:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![Curl](https://img.shields.io/badge/-Curl-073551?style=flat&logo=curl&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 
-        - Domains:
+        - Domain Provider:
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
-
-
 
 </details>
 
 <!--------------------------------------- Databases ------------------------------------>
-<details open>
+<details>
   <summary><b>Database:</b></summary>
   <br/>
-
+ 
         - ORM:
 ![Prisma](https://img.shields.io/badge/-Prisma-4169E1?style=flat&logo=prisma&logoColor=white)
 
         - SQL:
-[...]
-
-        - NoSQL:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 </details>
 
 <!--------------------------------------- FrontWeb  ------------------------------------>
-<details open>
+<details>
   <summary><b>Frontend:</b></summary>
   <br/>
+
+
 </details>
 <!--------------------------------------- Mobile ------------------------------------>
 <!--------------------------------------- Other ------------------------------------>
