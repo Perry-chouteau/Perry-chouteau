@@ -44,7 +44,7 @@ $\qquad$ a
   <summary><b>Operating System</b></summary>
   <br/>
 
-[![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
+[![Mac Arm64](https://img.shields.io/badge/-mac_OS%20Arm64-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 
 [![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)
 
@@ -77,16 +77,26 @@ $\qquad$ a
   <br/>
 
 - *version control*
+
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
+![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
 
 - *social*
+
 ![Outlook](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
-![Linkedin](https://img.shields.io/badge/-Linkedin-6264A7?style=flat&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
+
+- *organization tools*
+
+![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Github-Project](https://img.shields.io/badge/-GithubProject-0052CC?style=flat&logo=trello&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 </details>
 
@@ -94,9 +104,27 @@ $\qquad$ a
   <summary><b>Backend</b></summary>
   <br/>
 
-- API & Domains
+- *Languages*
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
+[![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
+
+- *Library*
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
+![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
+
+- *API & Domains*
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
+
+  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
+
+- *Package Manager*
+![npm](https://img.shields.io/badge/-NPM-CC0C0C?style=flat&logo=npm&logoColor=white)
 
 </details>
 
@@ -109,12 +137,6 @@ $\qquad$ a
 Backend:
 
 
-#Organization Tools
-![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Github-Project](https://img.shields.io/badge/-GithubProject-0052CC?style=flat&logo=trello&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
-
 (2/3)D:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -125,7 +147,6 @@ Backend:
 Docs 
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
 
 </details>
 
@@ -138,16 +159,8 @@ Loved language:
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
-Backend:
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
-
-[![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
-
 Devops:
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
-![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 Frontend:
@@ -165,20 +178,15 @@ Other:
 ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
 
 
-
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ![CSFML](https://img.shields.io/badge/-CSFML-8CC445?style=flat&logo=SFML&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=SFML&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CC0C0C?style=flat&logo=npm&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Styled_Component](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -187,7 +195,6 @@ Other:
 ![Eslint](https://img.shields.io/badge/-Eslint-8080F2?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 
 </details>
 </br>
