@@ -30,14 +30,12 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 ![Raylib](https://img.shields.io/badge/-Raylib%20Arm64-FFFFFF?style=flat&logo=https://www.raylib.com/common/img/raylib_logo.png&logoColor=black)
 
-
         - MacOS:
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-FFFFFF?style=flat&logo=apple&logoColor=black)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 
         - Linux:
 [![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-
 
         - Windows:
 [![Windows 11](https://img.shields.io/badge/-Windows11-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -183,14 +181,12 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![MariaDB](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-
 </details>
 
 <!--------------------------------------- Frontend  ------------------------------------>
 <details>
   <summary><b>Frontend:</b></summary>
   <br/>
-
 
         - Multimedia Library:
 ![CSFML](https://img.shields.io/badge/-CSFML-8CC445?style=flat&logo=SFML&logoColor=white)
@@ -206,7 +202,18 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<!--------------------------------------- Other ------------------------------------>
+<!--------------------------------------- DevOps ------------------------------------>
+<details open>
+  <summary><b>DevOps </b></summary>
+  <br/>
+
+
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-2088FF?style=flat&logo=gitlab&logoColor=white)
+
+
+</details>
 
 <!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
 <details open>
@@ -224,35 +231,27 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
+<!--
 redis
 elasticsearch
 jquery
 mongodb
 sqlite
-
- 
-</details>
+-->
 
 <details open>
-  <summary><b>Languages</b></summary>
+  <summary><b>Things to learn:</b></summary>
   <br/>
 
-Devops:
-        ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
-![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-Frontend:
-
-App Manager:
-        [![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
+        Frontend:
+        Backend:
+        Databases:
+        Framework:
+        Library:
+        App Manager:
+[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
 [![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
-
-Mobile:
-...
-
-Databases:
-
-Other:
+        Other:
 ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
 
 
@@ -293,8 +292,6 @@ insomnia
 postman
 linux
 macos
-mariadb
-mysql
 
 processingfoundation
 powershell
