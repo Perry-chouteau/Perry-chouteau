@@ -41,7 +41,7 @@ $\qquad$ a
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
 <details open>
-  <summary><b style="font-size:20px;">Operating System</b></summary>
+  <summary><b>Operating System</b></summary>
   <br/>
 
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
@@ -58,14 +58,14 @@ $\qquad$ a
   <summary><b>Ide's and more</b></summary>
   <br/>
 
- - most used
+- *most used*
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
- - most loved suite
+- *most loved suite*
 [![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
 
-- others
+- *others*
 [![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 [![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat&logo=arduino&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
@@ -76,27 +76,38 @@ $\qquad$ a
   <summary><b>Global</b></summary>
   <br/>
 
-- Version Control
+- *version control*
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
 
-- Social
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+- *social*
 ![Outlook](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Linkedin](https://img.shields.io/badge/-Linkedin-6264A7?style=flat&logo=linkedin&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
-![Beeper](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
+</details>
 
+<details open>
+  <summary><b>Backend</b></summary>
+  <br/>
 
+- API & Domains
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
+
+</details>
+
+<details open>
+  <summary><b>Frontend</b></summary>
+  <br/>
 </details>
 
 
 Backend:
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 
 #Organization Tools
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
