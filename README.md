@@ -28,7 +28,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Operating System:</b></summary>
   <br/>
 
-[![Raylib](https://img.shields.io/badge/-Raylib%20Arm64-FFFFFF?style=flat&logo=https://www.raylib.com/common/img/raylib_logo.png&logoColor=black)]
+![Raylib](https://img.shields.io/badge/-Raylib%20Arm64-FFFFFF?style=flat&logo=https://www.raylib.com/common/img/raylib_logo.png&logoColor=black)
 
 
         - MacOS:
