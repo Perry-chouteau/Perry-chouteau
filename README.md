@@ -23,6 +23,11 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 -------------------------------------------------------------------------------------------------------------->
 <h3>Global:</h3>
 
+| a | b |
+|---|---|
+|[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)|a|
+
+
 
 <details open>
   <summary><b>Operating System:</b></summary>
@@ -72,7 +77,8 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
         - Documentation:
-![UML](https://img.shields.io/badge/-UML-FABD14?style=flat&logo=uml&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-E95420?style=flat&logo=uml&logoColor=white)
+![Lucidspark](https://img.shields.io/badge/-Lucidspark-E95420?style=flat&logo=uml&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
