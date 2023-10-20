@@ -82,7 +82,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Organization tools:</b></summary>
   <br/>
 
-        - DataBase:
+        - Database:
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
 
@@ -105,23 +105,23 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
 
-        - Library & Frameworks:
+        - Library & Framework:
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=black)
 
-        - Library:
+        - Library & Framework:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CC0C0C?style=flat&logo=npm&logoColor=white)
 React
 
-
-        - Software:
-![Curl](https://img.shields.io/badge/-Curl-073551?style=flat&logo=curl&logoColor=white)
+        - Tool:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
+
+![Curl](https://img.shields.io/badge/-Curl-073551?style=flat&logo=curl&logoColor=white)
+![Ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 
 </details>
 
@@ -217,94 +217,118 @@ Other:
 
 </details>
 
-elasticsearch
+<details open>
+  <summary><b>Languages and more</b></summary>
+  <br/>
+
+uml
+markdown
+readme
+
+json
+yaml
+serverless
+jsonwebtokens
+prettier
+graddle
+precommit
+
+</details>
+
 eslint
 express
 gnubash
-graddle
-ifttt
 insomnia
+postman
+linux
+macos
+mariadb
+mysql
+namecheap
+processingfoundation
+powershell
+radixui
+react
+selenium
+sfml
+sharp
+shieldsdotio
+speedtest
+libreoffice
+virtualbox
+opencv
+
+<details>
+  <summary><b>In Progress</b></summary>
+  <br/>
+
+mui
+php
+phpmyadmin
+swagger
+threedotjs
+unity
+
+</details>
+
+
+<details>
+  <summary><b>To Learn</b></summary>
+  <br/>
+
+redis
+elasticsearch
+ifttt
 jenkins
 jest
 jira
-jquery
-jsonwebtokens
-jupyter
 kotlin
+jquery
+jupyter
 kubernetes
 latex
-libreoffice
-linux
 lua
-macos
-mariadb
-markdown
-miro
 mongodb
-mysql
-mui
-namecheap
 nestjs
 nextdotjs
 nuxtdotjs
-ocaml
 openssl
 openvpn
-opencv
+ocaml
 opengl
 ovh
 perl
-php
-phpmyadmin
 postgresql
-postman
-powershell
-precommit
-prettier
-processingfoundation
+miro
 qt
-radixui
-react
-readme
-redis
 rootme
 ruby
 rubyonrails
 rust
 sass
 scaleway
-selenium
-serverless
-sfml
-sharp
-shieldsdotio
 slides
 solidity
 socketdotio
-speedtest
 sqlite
 stylelint
 subversion
-swagger
 swift
 tailwindcss
-threedotjs
-travisci
 trpc
+travisci
 tryhackme
-uml
-unity
 unrealengine
 vercel
-virtualbox
 vitest
 vite
 vuedotjs
 webgl
 wireguard
 xaml
-yaml
 zapier
+
+</details>
 
 <!-- protodotio -->
 
