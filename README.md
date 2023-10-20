@@ -69,7 +69,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
         - Documentation:
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![UML](https://img.shields.io/badge/-UML-#FABD14?style=flat&logo=uml&logoColor=white)
+![UML](https://img.shields.io/badge/-UML-FABD14?style=flat&logo=uml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Readme](https://img.shields.io/badge/-Readme-018EF5?style=flat&logo=readme&logoColor=white)
 
