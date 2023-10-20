@@ -20,7 +20,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Operating System</b></summary>
   <br/>
 
-[![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-FFFFFF?style=flat&logo=apple&logoColor=black)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
+    [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-FFFFFF?style=flat&logo=apple&logoColor=black)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 [![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -31,7 +31,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Ide's and more</b></summary>
   <br/>
 
-[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+    [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Jetbrains](https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=black)](https://www.jetbrains.com)
 [![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnuemacs&logoColor=white)](https://www.jetbrains.com)
@@ -44,7 +44,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Version Control</b></summary>
   <br/>
 
-[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
+    [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
 ![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
@@ -52,26 +52,20 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <details open>
-  <summary><b>Social</b></summary>
+  <summary><b>Social & Organization tools</b></summary>
   <br/>
 
+    ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Outlook](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Rocker.Chat](https://img.shields.io/badge/-Rocker.Chat-F5455C?style=flat&logo=rocket.chat&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
-</details>
-
-<details open>
-  <summary><b>Organization tools</b></summary>
-  <br/>
-
-![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+    ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Github-Project](https://img.shields.io/badge/-GithubProject-0052CC?style=flat&logo=trello&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 </details>
 
@@ -79,26 +73,26 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Backend</b></summary>
   <br/>
 
-- *language:*
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
+    [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
+[![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.typescriptlang.org)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
 
-- *library*
-![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
+    ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CC0C0C?style=flat&logo=npm&logoColor=white)
 
-- *API & domains*
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+    ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
-
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
-![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-white?style=flat&logo=prisma&logoColor=4169E1)
 
 - *Package Manager*
-![npm](https://img.shields.io/badge/-NPM-CC0C0C?style=flat&logo=npm&logoColor=white)
 
 </details>
 
@@ -107,29 +101,27 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <br/>
 </details>
 
-
-Backend:
-
-
 (2/3)D:
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+    ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
 
 
 Docs 
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+    ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 </details>
 
 <details open>
-  <summary><b style="font-size:20px">Languages and more</b></summary>
+  <summary><b>Languages and more</b></summary>
   <br/>
 
 Loved language:
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+    [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
@@ -140,13 +132,13 @@ Devops:
 Frontend:
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white)
 
+[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
+[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
+
 Mobile:
 ...
 
 Databases:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-white?style=flat&logo=prisma&logoColor=4169E1)
 
 Other:
 ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
@@ -174,11 +166,9 @@ Other:
 </br>
 
 <details open>
-  <summary><b style="font-size:20px">Package</b></summary>
+  <summary><b>Package</b></summary>
   <br/>
  
-[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
-[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
 
 </details>
 
