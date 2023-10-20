@@ -325,7 +325,7 @@ unity
 
 <h1><details>
   <summary>To Learn:</summary>
-  <br/></h1>
+  <br/>
 
 mui
 
@@ -377,6 +377,7 @@ xaml
 zapier
 
 </details>
+</h1>
 
 <!-- protodotio -->
 
