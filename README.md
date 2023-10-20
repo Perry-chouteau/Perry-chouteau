@@ -23,6 +23,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 -------------------------------------------------------------------------------------------------------------->
 <h3>Global:</h3>
 
+
 <details open>
   <summary><b>Operating System:</b></summary>
   <br/>
@@ -38,6 +39,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 [![Windows 11](https://img.shields.io/badge/-Windows11-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 </details>
+
 
 <!--------------------------------------- Social ------------------------------------>
 <details open>
