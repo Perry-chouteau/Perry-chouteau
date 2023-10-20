@@ -270,6 +270,18 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <details>
+  <summary><b>In Progress</b></summary>
+  <br/>
+
+php
+phpmyadmin
+swagger
+threedotjs
+unity
+
+</details>
+
+<details>
   <summary><b>Things to learn:</b></summary>
   <br/>
 
@@ -287,12 +299,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FF6600?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-FF6600?style=flat&logo=sqlite&logoColor=white)
 
-</details>
-
-<details open>
-  <summary><b>...</b></summary>
-  <br/>
-
 graddle
 precommit
 
@@ -308,18 +314,6 @@ sfml
 sharp
 shieldsdotio
 virtualbox
-</details>
-
-<details>
-  <summary><b>In Progress</b></summary>
-  <br/>
-
-php
-phpmyadmin
-swagger
-threedotjs
-unity
-
 </details>
 
 
