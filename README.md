@@ -135,6 +135,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.typescriptlang.org)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+![Java](https://img.shields.io/badge/-Java-3178C6?style=flat&logo=java&logoColor=white)
 
         - Declarative:
         
