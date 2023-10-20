@@ -86,9 +86,11 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CC0C0C?style=flat&logo=npm&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CC0C0C?style=flat&logo=npm&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=black)
+
 
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
