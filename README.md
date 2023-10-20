@@ -323,9 +323,9 @@ unity
 </details>
 
 
-<details>
-  <summary><h1>To Learn:</h1></summary>
-  <br/>
+<h1><details>
+  <summary>To Learn:</summary>
+  <br/></h1>
 
 mui
 
