@@ -37,7 +37,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <br/>
 
         - Ide's:
-        [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+[![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00878F?style=flat&logo=arduino&logoColor=white)](https://visualstudio.microsoft.com/#vs-section)
 
@@ -51,17 +51,14 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <details open>
   <summary><b>Version Control:</b></summary>
   <br/>
+
         - Tools:
-        [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
+[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)](https://github.com)
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
 
         - Guidelines:
 ![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat&logo=Conventional-Commits&logoColor=white)
-s
-ss
-s
-
 
 </details>
 
