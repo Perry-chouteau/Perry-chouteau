@@ -24,7 +24,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <h3>Global:</h3>
 
 
-<details open>
+<details>
   <summary><b>Operating System:</b></summary>
   <br/>
 
@@ -44,7 +44,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 
 <!--------------------------------------- Social ------------------------------------>
-<details open>
+<details>
   <summary><b>Socials:</b></summary>
   <br/>
 
@@ -61,7 +61,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <!--------------------------------------- Organisation Tools ------------------------------------>
-<details open>
+<details>
   <summary><b>Organization tools:</b></summary>
   <br/>
 
@@ -88,7 +88,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 -------------------------------------------------------------------------------------------------------------->
 <h3>Developer:</h3>
 
-<details open>
+<details>
   <summary><b>Ide's and more:</b></summary>
   <br/>
 
@@ -106,7 +106,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<details open>
+<details>
   <summary><b>Version Control & More:</b></summary>
   <br/>
  
@@ -121,7 +121,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <!--------------------------------------- Languages ------------------------------------>
-<details open>
+<details>
   <summary><b>Languages:</b></summary>
   <br/>
 
@@ -222,7 +222,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <!--------------------------------------- DevOps ------------------------------------>
-<details open>
+<details>
   <summary><b>DevOps:</b></summary>
   <br/>
 
@@ -236,11 +236,9 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 
 <!--------------------------------------- Miscellaneous ------------------------------------>
-<details open>
+<details>
   <summary><b>Miscellaneous:</b></summary>
   <br/>
-
-        - Framework:
 
         - Library:
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
@@ -263,7 +261,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 
 <!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
-<details open>
+<details>
   <summary><b>Picture Edition & Modelisation </b></summary>
   <br/>
 
@@ -286,7 +284,7 @@ mongodb
 sqlite
 -->
 
-<details open>
+<details>
   <summary><b>Things to learn:</b></summary>
   <br/>
 
