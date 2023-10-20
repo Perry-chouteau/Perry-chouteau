@@ -14,30 +14,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perry-chouteau&show_icons=true&theme=dark&disable_animations=true)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perry-chouteau&hide=html,css,scss,objective-c,perl&langs_count=10&layout=compact&theme=dark&disable_animations=true)](https://github.com/Perry-chouteau/Perry-chouteau)-->
 
-<!--
-### Test:
-
-$\qquad$ a
-
-- Global
- - 
-
-- Backend
-- Front
-- Other
- - 
-
- - Language 
- - Backend
-- Assets & more..
-  - Software
-    - 1
-    - 2
-
-
--->
-
-
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
 <details open>
