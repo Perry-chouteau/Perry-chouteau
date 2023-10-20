@@ -92,6 +92,9 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
         - Workspace:
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![UML](https://img.shields.io/badge/-UML-#FABD14?style=flat&logo=uml&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Readme](https://img.shields.io/badge/-Readme-018EF5?style=flat&logo=readme&logoColor=white)
 
 </details>
 
@@ -110,10 +113,9 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=black)
 
-        - Library & Framework:
+        - Package Manager:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CC0C0C?style=flat&logo=npm&logoColor=white)
-React
 
         - Tool:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -221,9 +223,6 @@ Other:
   <summary><b>Languages and more</b></summary>
   <br/>
 
-uml
-markdown
-readme
 
 json
 yaml
