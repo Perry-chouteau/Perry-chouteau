@@ -175,8 +175,10 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
         - SQL:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
 
 </details>
 
@@ -210,7 +212,6 @@ redis
 elasticsearch
 jquery
 mongodb
-postgresql
 sqlite
 
  
