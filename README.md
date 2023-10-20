@@ -23,19 +23,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 -------------------------------------------------------------------------------------------------------------->
 <h3>Global:</h3>
 
- a | b 
----|---
-[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)|![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)|![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-![Github-Project](https://img.shields.io/badge/-GithubProject-000000?style=flat&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)|[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
-![Github-Project](https://img.shields.io/badge/-GithubProject-000000?style=flat&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)|
-
-
 
 <details open>
   <summary><b>Operating System:</b></summary>
@@ -177,8 +164,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
         - Library & Framework:
 ![Sharp](https://img.shields.io/badge/-Sharp-99CC00?style=flat&logo=sharp&logoColor=white)
 
-
-
         - Tools:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
@@ -188,6 +173,18 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
         - Domain Provider:
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
+
+        - Services:
+![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF4F8B?style=flat&logo=amazonec2&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/-AWS_CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS APIGateway](https://img.shields.io/badge/-AWS_APIGateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+jsonwebtokens
 
 </details>
 
@@ -238,8 +235,34 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-2088FF?style=flat&logo=gitlab&logoColor=white)
 
+</details>
+
+<!--------------------------------------- Miscellaneous ------------------------------------>
+<details open>
+  <summary><b>Miscellaneous:</b></summary>
+  <br/>
+
+        - Framework:
+
+        - Library:
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+        - App/Package Manager:
+[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
+[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
+
+        Other:
+![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+
+![Styled_Component](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
+![Eslint](https://img.shields.io/badge/-Eslint-8080F2?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 
 </details>
+
 
 <!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
 <details open>
@@ -269,30 +292,14 @@ sqlite
   <summary><b>Things to learn:</b></summary>
   <br/>
 
-        Frontend:
-        Backend:
-        Databases:
-        Framework:
-        Library:
-        App Manager:
-[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
-[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
-        Other:
-![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
-
-
-![Styled_Component](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
+        - Devops:
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Traefik Proxy](https://img.shields.io/badge/-Traefik_Proxy-24A1C1?style=flat&logo=traefik-proxy&logoColor=white)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
-![Eslint](https://img.shields.io/badge/-Eslint-8080F2?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
+
+        - Devops:
 
 </details>
 
