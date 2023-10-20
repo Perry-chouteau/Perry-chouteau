@@ -28,17 +28,13 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Operating System:</b></summary>
   <br/>
 
-|  MacOs | Linux | Windows |
-|--------|-------|---------|
-| [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-FFFFFF?style=flat&logo=apple&logoColor=black)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows) | [![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org) | [![Windows 11](https://img.shields.io/badge/-Windows11-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows) |
-||[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)||
-
-
-
         - MacOS:
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-FFFFFF?style=flat&logo=apple&logoColor=black)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 
         - Linux:
+[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+
 
         - Windows:
 [![Windows 11](https://img.shields.io/badge/-Windows11-0078D6?style=flat&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
