@@ -67,7 +67,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
         - Project Management:
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
-![Github-Project](https://img.shields.io/badge/-GithubProject-0052CC?style=flat&logo=trello&logoColor=white)
+![Github-Project](https://img.shields.io/badge/-GithubProject-000000?style=flat&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
         - Documentation:
