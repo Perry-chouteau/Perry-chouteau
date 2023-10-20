@@ -71,8 +71,9 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
         - Documentation:
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat&logo=uml&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Readme](https://img.shields.io/badge/-Readme-018EF5?style=flat&logo=readme&logoColor=white)
 
@@ -89,7 +90,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
   <summary><b>Ide's and more:</b></summary>
   <br/>
 
-        - Text Editor:
+        - Most used:
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
         - IDE's:
@@ -119,24 +120,16 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 <!--------------------------------------- Languages ------------------------------------>
 <details open>
-  <summary><b>Over all:</b></summary>
+  <summary><b>Languages:</b></summary>
   <br/>
 
-        - Language:
-  
-</details>
-
-<details open>
-  <summary><b>Languages</b></summary>
-  <br/>
-     
         - Imperative:
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 
-                        - Procedural:
+                - Procedural:
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-                        - Object Oriented:
+                - Object Oriented:
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
@@ -151,17 +144,19 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 </details>
 <!--------------------------------------- Backend ------------------------------------>
 <details open>
-  <summary><b>Backend:</b></summary>
-  <br/> 
+  <summary><b>Backend</b></summary>
+  <br/>
 
-        - Library & Framework:
+        - API:
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=black)
+![WireGo](https://img.shields.io/badge/-Wire-red?style=flat&logo=google&logoColor=black)
 
         - Package Manager:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CC0C0C?style=flat&logo=npm&logoColor=white)
+![wire](https://img.shields.io/badge/-npm-CC0C0C?style=flat&logo=npm&logoColor=white)
 
         - Tool:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -217,16 +212,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
 
 </details>
-
-<details>
-  <summary><b>Docs:</b></summary>
-  <br/>
- 
-        ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-</details>
-
 
 redis
 elasticsearch
