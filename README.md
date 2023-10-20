@@ -14,6 +14,9 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perry-chouteau&show_icons=true&theme=dark&disable_animations=true)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perry-chouteau&hide=cmake,makefile,html,css,scss,objective-c,perl&langs_count=10&layout=compact&theme=dark&disable_animations=true)](https://github.com/Perry-chouteau/Perry-chouteau)-->
 
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Perry-chouteau)
+
+
 <h1 align=center>𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒕𝒂𝒄𝒌 <img src="https://emojis.slackmojis.com/emojis/images/1643514558/5570/confused_dog.gif?1643514558" width="30"/></h1>
 
 <!------------------------------------------------------------------------------------------------------------
@@ -55,7 +58,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 </details>
-
 
 <!--------------------------------------- Organisation Tools ------------------------------------>
 <details open>
