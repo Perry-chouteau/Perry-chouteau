@@ -144,7 +144,8 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
     - Declarative:
-        - Functional:
+        
+        - Functional:
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
 </details>
