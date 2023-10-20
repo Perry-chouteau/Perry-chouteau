@@ -174,7 +174,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
 
-        - Services:
+        - Services & More:
 ![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
