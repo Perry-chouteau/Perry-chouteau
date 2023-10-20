@@ -25,7 +25,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 | a | b |
 |---|---|
-|[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)|a|
+|[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)![Github-Project](https://img.shields.io/badge/-GithubProject-000000?style=flat&logo=github&logoColor=white)![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)|a|
 
 
 
