@@ -143,17 +143,27 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
                 - Functional:
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
+        - Markup Language:
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-000000?style=flat&logo=xaml&logoColor=white)
+
 </details>
 
 <!--------------------------------------- Backend ------------------------------------>
 <details>
-  <summary><b>Backend</b></summary>
+  <summary><b>Backend:</b></summary>
   <br/>
 
         - API:
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=black)
+
+        - Library & Framework:
+![Sharp](https://img.shields.io/badge/-Sharp-99CC00?style=flat&logo=sharp&logoColor=white)
+
+
 
         - Tools:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -204,7 +214,7 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 <!--------------------------------------- DevOps ------------------------------------>
 <details open>
-  <summary><b>DevOps </b></summary>
+  <summary><b>DevOps:</b></summary>
   <br/>
 
 
