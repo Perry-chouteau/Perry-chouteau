@@ -253,22 +253,6 @@ I'm currently leaving in Daegu in South Korea. Learning Korean, Modeling 3D Asse
 
 </details>
 
-<!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
-<details>
-  <summary><b>Picture Edition & Modelisation </b></summary>
-  <br/>
-
-        Presentation:
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-        Editor:
-![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-5C5543?style=flat&logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
-
-</details>
-
 <details>
   <summary><b>In Progress</b></summary>
   <br/>
@@ -395,6 +379,28 @@ socketdotio
 stylelint
 subversion
 wireguard
+
+</details>
+
+<!------------------------------------------------------------------------------------------------------------
+-
+- Modelisation & Photograph
+-
+-------------------------------------------------------------------------------------------------------------->
+<h3>Modelisation & Photograph:</h3>
+<!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
+<details>
+  <summary><b>Picture Edition & Modelisation </b></summary>
+  <br/>
+
+        Presentation:
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+        Editor:
+![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-5C5543?style=flat&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
 
 </details>
 
