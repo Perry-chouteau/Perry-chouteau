@@ -14,8 +14,6 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 2025 - I will graduade as Software engineering expert at Epitech Paris.
  
-<img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source"/>
-
 
 <!-- ![ghchart](https://ghchart.rshah.org/perry-chouteau)-->
 
