@@ -217,6 +217,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 ![CSFML](https://img.shields.io/badge/-CSFML-8CC445?style=flat&logo=SFML&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=SFML&logoColor=white)
 ![Raylib](https://img.shields.io/badge/-Raylib-8CC445?style=flat&logo=Raylib&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 
         - Framework:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
