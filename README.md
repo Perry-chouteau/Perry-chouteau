@@ -6,14 +6,17 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 2021 - I continue my mission for Paykrom working as a freelancer and studying.
 
-2022 - I made an 2nd internship at XO7 working as Backend developer and made a lot of project increasing my managing skills.
+2022 - I've made a 2nd internship at XO7 working as Backend developer and made a lot of project increasing my managing skills.
 
 2023 - I lived a year in South Korea. Increasing my knowledge at keymiung Univ. & starting the final project of Epitech with 6friends(spread on every continent), I Traveled through the country with my tent and a bike (+2000km).
 
 2024 - I came back to france searching for jobs or activities to do. this voyage to S. Korea help me to find out what deserve sweat&blood.
 
-2025 - I will graduade as Software engineering expert at Epitech Paris.
- 
+2025 - I'm doing an internship at Dassault Systems. R&D Sofwtare - Interoperability.
+
+I will graduade as Software engineering expert at Epitech Paris.
+
+
 
 <!-- ![ghchart](https://ghchart.rshah.org/perry-chouteau)-->
 
