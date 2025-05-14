@@ -13,7 +13,6 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 2024 - I came back to france searching for jobs or activities to do. this voyage to S. Korea help me to find out what deserve sweat&blood.
 
 2025 - I'm doing an internship at Dassault Systems. R&D Sofwtare - Interoperability.
-
 I will graduade as Software engineering expert at Epitech Paris.
 
 
