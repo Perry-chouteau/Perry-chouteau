@@ -88,7 +88,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <br/>
 
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
-![Namecheap](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
+![Namecheap](https://img.shields.io/badge/-Namecheap-FF6600?style=flat&logo=namecheap&logoColor=white)
 
 ![OVH VPS](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
