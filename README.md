@@ -2,18 +2,19 @@
 
 I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **Paris, France**.
 
-2020 - I Start learning "how to be a great dev" at Epitech Paris (ending in 2025), I did an internship of 6 months as a Mobile-developer in a company named Paykrom (it was like Qonto).
+2020 - I Join Epitech Paris, to learn development
 
-2021 - I continue my mission for Paykrom working as a freelancer and studying.
+2021, I did an internship of 6 months as a Mobile-developer in a company named Paykrom (it was like Qonto).
+2022 - I join the freelance side to continue my mission for Paykrom.
 
-2022 - I've made a 2nd internship at XO7 working as Backend developer and made a lot of project increasing my managing skills.
+2023 - I've made an internship at XO7 working as Backend/Cloud developer and made a lot of project increasing my technical skills.
 
-2023 - I lived a year in South Korea. Increasing my knowledge at keymiung Univ. & starting the final project of Epitech with 6friends(spread on every continent), I Traveled through the country with my tent and a bike (+2000km).
+2024 - I lived a year in South Korea. Increasing my knowledge at keymiung Univ.
+2024 - I Start a project of 1.5years with 6friends(spread on every continent), 
+2024 - I Traveled through the country with my tent and a bike (+2000km).
 
-2024 - I came back to france searching for jobs or activities to do. this voyage to S. Korea help me to find out what deserve sweat&blood.
-
-2025 - I'm doing an internship at Dassault Systems. R&D Sofwtare - Interoperability.
-I will graduade as Software engineering expert at Epitech Paris.
+2025 - I didan internship at Dassault Systems. R&D Sofwtare - Interoperability.
+2025 - I graduated as Software engineering expert at Epitech Paris.
 
 
 
