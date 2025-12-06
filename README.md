@@ -104,7 +104,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/-Podman-46a2f1?style=flat&logo=docker&logoColor=white)
 ![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-2088FF?style=flat&logo=gitlab&logoColor=white)
+![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-FF6600?style=flat&logo=gitlab&logoColor=white)
 
 </details>
 
@@ -124,7 +124,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <br/>
 
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-![Java](https://img.shields.io/badge/-Java-3178C6?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FF6600?style=flat&logo=java&logoColor=white)
 
 
 </details>
