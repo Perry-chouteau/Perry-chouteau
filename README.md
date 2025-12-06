@@ -49,17 +49,6 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 </details>
 
-<!--------------------------------------- Organisation Tools ------------------------------------>
-<details>
-  <summary><b>Organization tools:</b></summary>
-  <br/>
-
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Readme](https://img.shields.io/badge/-Readme-018EF5?style=flat&logo=readme&logoColor=white)
-
-</details>
-
 <!------------------------------------------------------------------------------------------------------------
 -
 - Developer
@@ -69,18 +58,25 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 <!--------------------------------------- Languages ------------------------------------>
 <details>
-  <summary><b>Languages:</b></summary>
+  <summary><b>Software:</b></summary>
   <br/>
 
 [![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 ![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
 
+</details>
+
+<details>
+  <summary><b>Software:</b></summary>
+  <br/>
+
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
 
+</details>
 
 <!--------------------------------------- Backend ------------------------------------>
 <details>
