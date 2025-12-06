@@ -40,7 +40,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
         - MacOS: (xo7, since 2023)
 [![Mac Arm64](https://img.shields.io/badge/-Mac%20Arm64-FFFFFF?style=flat&logo=apple&logoColor=black)](https://www.apple.com/uk/newsroom/2023/01/apple-unveils-m2-pro-and-m2-max-next-generation-chips-for-next-level-workflows)
 
-        - Linux: (epitech, qemu, container)
+        - Linux: (epitech, qemu, container..)
 [![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
