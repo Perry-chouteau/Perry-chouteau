@@ -84,10 +84,9 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 <!--------------------------------------- Cloud ------------------------------------>
 <details>
-  <summary><b>FullStack:</b></summary>
+  <summary><b>Cloud:</b></summary>
   <br/>
 
-        - Cloud:
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
 
