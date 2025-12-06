@@ -56,7 +56,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 -------------------------------------------------------------------------------------------------------------->
 <h3>Developer:</h3>
 
-<!--------------------------------------- Languages ------------------------------------>
+<!--------------------------------------- Software ------------------------------------>
 <details>
   <summary><b>Software:</b></summary>
   <br/>
@@ -67,8 +67,9 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 </details>
 
+<!--------------------------------------- FullStack ------------------------------------>
 <details>
-  <summary><b>Software:</b></summary>
+  <summary><b>FullStack:</b></summary>
   <br/>
 
 
@@ -76,52 +77,21 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
 
-</details>
-
-<!--------------------------------------- Backend ------------------------------------>
-<details>
-  <summary><b>Backend:</b></summary>
-  <br/>
-
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-![Java](https://img.shields.io/badge/-Java-3178C6?style=flat&logo=java&logoColor=white)
-
-
-</details>
-
-<!--------------------------------------- Backend ------------------------------------>
-<details>
-  <summary><b>Backend:</b></summary>
-  <br/>
-
-        - API:
 ![Grpc](https://img.shields.io/badge/-Grpc-5ac5c5?style=flat&logo=trpc&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=flat&logo=express&logoColor=black)
-
-        - Tools:
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
-![Ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 
-        - Domain Provider:
+</details>
+
+<!--------------------------------------- Cloud ------------------------------------>
+
+        - Cloud:
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
-![OVH](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
 
-        - Services & More:
-![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![OVH VPS](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-</details>
-
-<!--------------------------------------- Databases ------------------------------------>
-<details>
-  <summary><b>Database:</b></summary>
-  <br/>
- 
-![Prisma](https://img.shields.io/badge/-Prisma-4169E1?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-</details>
 
 <!--------------------------------------- DevOps ------------------------------------>
 <details>
@@ -135,6 +105,28 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 ![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-2088FF?style=flat&logo=gitlab&logoColor=white)
 
 </details>
+
+<!--------------------------------------- Databases ------------------------------------>
+<details>
+  <summary><b>Database:</b></summary>
+  <br/>
+ 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-4169E1?style=flat&logo=prisma&logoColor=white)
+
+</details>
+
+<!--------------------------------------- Mobile ------------------------------------>
+<details>
+  <summary><b>Mobile:</b></summary>
+  <br/>
+
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+![Java](https://img.shields.io/badge/-Java-3178C6?style=flat&logo=java&logoColor=white)
+
+
+</details>
+
 
 
 <h1 align=center>𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒓𝒆𝒂𝒅𝒊𝒏𝒈 ! <img src="https://emojis.slackmojis.com/emojis/images/1643514872/8868/blob_cozy.png?1643514872" width="30"/></h1>
