@@ -72,14 +72,24 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <summary><b>Languages:</b></summary>
   <br/>
 
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
+![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
+
+
+<!--------------------------------------- Backend ------------------------------------>
+<details>
+  <summary><b>Backend:</b></summary>
+  <br/>
+
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dartlogoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-3178C6?style=flat&logo=java&logoColor=white)
 
-[![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org)
 
 </details>
 
@@ -112,10 +122,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <summary><b>Database:</b></summary>
   <br/>
  
-        - ORM:
 ![Prisma](https://img.shields.io/badge/-Prisma-4169E1?style=flat&logo=prisma&logoColor=white)
-
-        - SQL:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 </details>
@@ -125,188 +132,13 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <summary><b>DevOps:</b></summary>
   <br/>
 
-        - Container Related:
+![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/-Podman-46a2f1?style=flat&logo=docker&logoColor=white)
-
-        - CI/CD:
 ![GithubAction](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-2088FF?style=flat&logo=gitlab&logoColor=white)
 
 </details>
-
-<!--------------------------------------- Miscellaneous ------------------------------------>
-<details>
-  <summary><b>Miscellaneous:</b></summary>
-  <br/>
-
-        - Library:
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-        - App/Package Manager:
-[![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io)
-[![Homebrew](https://img.shields.io/badge/-Homebrew-2E2A24?style=flat&logo=homebrew&logoColor=white)](https://brew.sh)
-
-        - Other:
-![Cmake](https://img.shields.io/badge/-Cmake-064F8C?style=flat&logo=cmake&logoColor=white)
-
-</details>
-
-<details>
-  <summary><b>In Progress</b></summary>
-  <br/>
-
-php
-phpmyadmin
-swagger
-threedotjs
-unity
-
-</details>
-
-<details>
-  <summary><b>Things to learn:</b></summary>
-  <br/>
-
-        - Devops:
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Traefik Proxy](https://img.shields.io/badge/-Traefik_Proxy-24A1C1?style=flat&logo=traefik-proxy&logoColor=white)
-![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
-
-        - Database:
-![Redis](https://img.shields.io/badge/-Redis-FF6600?style=flat&logo=redis&logoColor=white)
-![Elastic_Search](https://img.shields.io/badge/-Elastic_Search-FF6600?style=flat&logo=elasticsearch&logoColor=white)
-![JQuery](https://img.shields.io/badge/-JQuery-FF6600?style=flat&logo=jquery&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FF6600?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-FF6600?style=flat&logo=sqlite&logoColor=white)
-
-graddle
-precommit
-
-gnubash
-insomnia
-
-processingfoundation
-powershell
-radixui
-react
-selenium
-sfml
-sharp
-shieldsdotio
-virtualbox
-</details>
-
-
-<details>
-  <summary>To Learn:</summary>
-  <br/>
-
-        - Docs
-latex
-        - Devops
-travisci
-jenkins
-kubernetes
-
-        - Webapp:
-openvpn
-wireguard
-
-miro
-jira
-slides
-
-jupyter
-
-ovh
-azure
-scaleway
-vercel
-
-ifttt
-zapier
-
-rootme
-tryhackme
-
-        - JS framework:
-vuedotjs
-vite
-nextdotjs
-nuxtdotjs
-nestjs
-
-        - Library:
-trpc
-tailwindcss
-
-        - Test:
-jest
-vitest
-
-        - Application:
-kotlin
-swift
-
-        - Fonctionel:
-lua
-ocaml
-perl
-
-        - Application:
-ruby
-rubyonrails
-rust
-
-unrealengine
-
-        - MultimediaLibray:
-webgl
-opengl
-qt
-
-        - Other:
-fastapi
-mui
-openssl
-sass
-solidity
-socketdotio
-stylelint
-subversion
-wireguard
-
-</details>
-
-<!------------------------------------------------------------------------------------------------------------
--
-- Modelisation & Photograph
--
--------------------------------------------------------------------------------------------------------------->
-<h3>Modelisation & Photograph:</h3>
-<!--------------------------------------- Picture Edition & Modelisation ------------------------------------>
-<details>
-  <summary><b>Picture Edition & Modelisation </b></summary>
-  <br/>
-
-        Presentation:
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-        Editor:
-![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-5C5543?style=flat&logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
-
-</details>
-
-<!-- protodotio -->
-
-
 
 
 <h1 align=center>𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒓𝒆𝒂𝒅𝒊𝒏𝒈 ! <img src="https://emojis.slackmojis.com/emojis/images/1643514872/8868/blob_cozy.png?1643514872" width="30"/></h1>
