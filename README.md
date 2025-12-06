@@ -72,7 +72,6 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
   <summary><b>FullStack:</b></summary>
   <br/>
 
-
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flutter&logoColor=white)
@@ -84,6 +83,9 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 </details>
 
 <!--------------------------------------- Cloud ------------------------------------>
+<details>
+  <summary><b>FullStack:</b></summary>
+  <br/>
 
         - Cloud:
 ![Google Domains](https://img.shields.io/badge/-Google_Domains-4285F4?style=flat&logo=google-domains&logoColor=white)
@@ -92,6 +94,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 ![OVH VPS](https://img.shields.io/badge/-Namecheap-4285F4?style=flat&logo=namecheap&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+</details>
 
 <!--------------------------------------- DevOps ------------------------------------>
 <details>
