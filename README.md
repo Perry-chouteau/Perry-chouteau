@@ -69,7 +69,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 
 <!--------------------------------------- FullStack ------------------------------------>
 <details>
-  <summary><b>FullStack:</b></summary>
+  <summary><b>Backend:</b></summary>
   <br/>
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
