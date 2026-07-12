@@ -13,7 +13,7 @@ I'm a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560
 2024 - I Start a project of 1.5years with 6friends(spread on every continent), 
 2024 - I Traveled through the country with my tent and a bike (+2000km).
 
-2025 - I didan internship at Dassault Systems. R&D Sofwtare - Interoperability.
+2025 - I did an internship at Dassault Systems. R&D Sofwtare - Interoperability.
 2025 - I graduated as Software engineering expert at Epitech Paris.
 
 
